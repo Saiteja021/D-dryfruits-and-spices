@@ -1,0 +1,41 @@
+.fa-cart-shopping{
+    float: right;
+   position: absolute;
+    right:100px;
+     margin-left: 10px;
+     height: 150px;
+     width: 150px;
+     font-size: 30px;
+     top: 70px;
+ }
+
+ .grid-item{
+position: absolute;
+padding: 100px;
+width: 200px;
+height: 100px;
+margin-left: 500px;
+bottom: 170px;
+
+ }
+ 
+ form {
+    margin-bottom: 20px;
+}
+label, input, button {
+    display: block;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+   
+label {
+    display: inline-block;
+    width: 100px; 
+    text-align: right; 
+    margin-right: 10px; 
+}
+
+input[type="text"],
+input[type="file"] {
+    width: 200px;
+}

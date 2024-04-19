@@ -1,0 +1,38 @@
+table {
+    width: 90%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 2px solid black;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: CENTER;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  .fa-cart-shopping{
+    float: right;
+   position: absolute;
+    right:100px;
+     margin-left: 10px;
+     height: 150px;
+     width: 150px;
+     font-size: 30px;
+     top: 70px;
+ } 
+ .fa-plus{
+    float: right;
+    position: absolute;
+    right:250px;
+     margin-left: 10px;
+     height: 150px;
+     width: 150px;
+     font-size: 30px;
+     top: 70px;
+}
+  

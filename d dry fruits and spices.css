@@ -1,0 +1,42 @@
+.fa-cart-shopping{
+    float: right;
+   position: absolute;
+    right:100px;
+     margin-left: 10px;
+     height: 150px;
+     width: 150px;
+     font-size: 30px;
+     top: 70px;
+ } 
+.card container{
+    width: 100%;
+    padding: 5%;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.grid-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+    padding: 1px;  
+    gap: 10%;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.fa-plus{
+    float: right;
+    position: absolute;
+    right:250px;
+     margin-left: 10px;
+     height: 150px;
+     width: 150px;
+     font-size: 30px;
+     top: 70px;
+}

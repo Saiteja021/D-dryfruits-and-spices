@@ -1,0 +1,10 @@
+.fa-cart-shopping{
+    float: right;
+   position: absolute;
+    right:100px;
+     margin-left: 10px;
+     height: 150px;
+     width: 150px;
+     font-size: 30px;
+     top: 70px;
+ }
