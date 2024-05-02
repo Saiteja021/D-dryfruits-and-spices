@@ -1,4 +1,4 @@
-.fa-cart-shopping{
+.fa-sign-out-alt{
     float: right;
    position: absolute;
     right:100px;
@@ -14,8 +14,6 @@
     margin-left: 200px;
     margin-right: 200px;
 }
-
-
 .grid-container{
     display: flex;
     justify-content: center;
@@ -40,3 +38,23 @@
      font-size: 30px;
      top: 70px;
 }
+button:nth-of-type(1){
+    position: absolute;
+     margin-left: 280px;
+     height: 35px;
+     width: 85px;
+     font-size: 20px;
+     background-color: whitesmoke;
+     top: 70px;
+     display: inline-block;
+ }
+ button:nth-of-type(2){
+    position: absolute;
+     margin-left: 100px;
+     height: 35px;
+     width: 130px;
+     font-size: 20px;
+     background-color: whitesmoke;
+     top: 70px;
+     display: inline-block;
+ }

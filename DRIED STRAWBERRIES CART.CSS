@@ -63,3 +63,13 @@ button{
     margin-left: 200%;
     align-items: center;
 }
+.fa-sign-out-alt{
+    float: right;
+   position: absolute;
+    right:10px;
+     margin-left: 30px;
+     height: 150px;
+     width: 150px;
+     font-size: 30px;
+     top: 70px;
+ } 
